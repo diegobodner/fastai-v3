@@ -11,11 +11,7 @@ from starlette.staticfiles import StaticFiles
 
 #export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1Nf1rVTBdsMuC2dmTjAvixoTCbmFdEjnu'
-
-#export_file_url = 'https://www.dropbox.com/s/gdr8uz7fzhxff80/export.pkl?dl=1'
-#export_file_url = 'https://www.dropbox.com/s/i7cyr2ia5xn9lj5/stage-1.pth?dl=1'
-
+export_file_url = 'https://drive.google.com/uc?export=download&id=12DDWkrAZRCbGu2D9sQP0L8TipHDruLIp'
 
 export_file_name = 'trained_model34.pkl'
 #export_file_name = 'stage-1.pth'
