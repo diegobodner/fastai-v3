@@ -17,7 +17,7 @@ export_file_url = 'https://drive.google.com/uc?export=download&id=1Nf1rVTBdsMuC2
 #export_file_url = 'https://www.dropbox.com/s/i7cyr2ia5xn9lj5/stage-1.pth?dl=1'
 
 
-export_file_name = 'export.pkl'
+export_file_name = 'trained_model34.pkl'
 #export_file_name = 'stage-1.pth'
 
 #classes = ['black', 'grizzly', 'teddys']
